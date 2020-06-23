@@ -1,0 +1,130 @@
+{
+    "Chordata": [
+        2,
+        15
+    ],
+    "Chordata_Aves": [
+        1,
+        41
+    ],
+    "Chordata_Aves_Psittaciformes": [
+        1,
+        2
+    ],
+    "Chordata_Aves_Psittaciformes_Psittacidae": [
+        1,
+        101
+    ],
+    "Chordata_Aves_Psittaciformes_Psittacidae_Psittacus": [
+        1,
+        44
+    ],
+    "Chordata_Mammalia": [
+        1,
+        30
+    ],
+    "Chordata_Mammalia_Primates": [
+        7,
+        50
+    ],
+    "Chordata_Mammalia_Primates_Lemuridae": [
+        3,
+        6
+    ],
+    "Chordata_Mammalia_Primates_Lemuridae_Lemur": [
+        1,
+        2
+    ],
+    "Chordata_Mammalia_Primates_Lemuridae_Eulemur": [
+        1,
+        13
+    ],
+    "Chordata_Mammalia_Primates_Lemuridae_Varecia": [
+        1,
+        2
+    ],
+    "Chordata_Mammalia_Primates_Hominidae": [
+        4,
+        33
+    ],
+    "Chordata_Mammalia_Primates_Hominidae_Gorilla": [
+        1,
+        2
+    ],
+    "Chordata_Mammalia_Primates_Hominidae_Pongo": [
+        3,
+        4
+    ],
+    "Chordata_Mammalia_Primates_Hominidae_Homo": [
+        1,
+        14
+    ],
+    "Chordata_Mammalia_Primates_Hominidae_Pan": [
+        2,
+        2
+    ],
+    "Chordata_Mammalia_Primates_Indriidae": [
+        1,
+        3
+    ],
+    "Chordata_Mammalia_Primates_Indriidae_Propithecus": [
+        1,
+        9
+    ],
+    "Chordata_Mammalia_Primates_Cebidae": [
+        3,
+        6
+    ],
+    "Chordata_Mammalia_Primates_Cebidae_Saimiri": [
+        1,
+        11
+    ],
+    "Chordata_Mammalia_Primates_Cebidae_Cebus": [
+        1,
+        18
+    ],
+    "Chordata_Mammalia_Primates_Cebidae_Sapajus": [
+        1,
+        7
+    ],
+    "Chordata_Mammalia_Primates_Callitrichidae": [
+        3,
+        10
+    ],
+    "Chordata_Mammalia_Primates_Callitrichidae_Leontocebus": [
+        1,
+        11
+    ],
+    "Chordata_Mammalia_Primates_Callitrichidae_Callithrix": [
+        1,
+        8
+    ],
+    "Chordata_Mammalia_Primates_Callitrichidae_Saguinus": [
+        2,
+        12
+    ],
+    "Chordata_Mammalia_Primates_Pitheciidae": [
+        1,
+        8
+    ],
+    "Chordata_Mammalia_Primates_Pitheciidae_Callicebus": [
+        1,
+        6
+    ],
+    "Chordata_Mammalia_Primates_Cercopithecidae": [
+        3,
+        29
+    ],
+    "Chordata_Mammalia_Primates_Cercopithecidae_Papio": [
+        3,
+        8
+    ],
+    "Chordata_Mammalia_Primates_Cercopithecidae_Cercopithecus": [
+        2,
+        31
+    ],
+    "Chordata_Mammalia_Primates_Cercopithecidae_Macaca": [
+        3,
+        28
+    ]
+}
